@@ -11,7 +11,7 @@ const browser = await puppeteer.launch({
 const page = await browser.newPage()
 await page.goto("https://duckduckgo.com", {waitUntil: 'networkidle2'})
 await page.waitForSelector("#searchbox_homepage")
-await page.type("#searchbox_homepage",'https://devconfbd.com/')
+await page.type("#searchbox_homepage",'devconfbd.com')
 
 const searchButtonHandel = await page.waitForSelector("button[aria-label='Search']", { timeout: 20000 });
 await searchButtonHandel.click()
