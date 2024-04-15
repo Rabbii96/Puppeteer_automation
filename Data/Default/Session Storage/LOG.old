@@ -1,3 +1,2 @@
-2024/04/10-13:41:05.601 4 Reusing MANIFEST /home/fazle/Desktop/puppeteer/Data/Default/Session Storage/MANIFEST-000001
-2024/04/10-13:41:05.601 4 Recovering log #3
-2024/04/10-13:41:05.601 4 Reusing old log /home/fazle/Desktop/puppeteer/Data/Default/Session Storage/000003.log 
+2024/04/15-09:37:46.293 252c Creating DB C:\Users\rabbi\OneDrive\Desktop\Puppeteer_automation\Data\Default\Session Storage since it was missing.
+2024/04/15-09:37:46.317 252c Reusing MANIFEST C:\Users\rabbi\OneDrive\Desktop\Puppeteer_automation\Data\Default\Session Storage/MANIFEST-000001
